@@ -1,2 +1,2 @@
 # prueba
-nombre: Amilkar Miguel Macuchapi M.
+Nombre: Amilkar Miguel Macuchapi M.
